@@ -40,14 +40,15 @@
 .chargegp{
     position: relative;
     left: 0px;
-    top: 30px;
+    top: -25px;
+    border: 1px solid black;
 }
 
 .gpdiv1{
     border: none;
     background-color: white;
-    height: 320px;
-    width: 440px;
+    height: 425px;
+    width: 480px;
     position: relative;
     left: 200px;
     top: 30px;
@@ -78,13 +79,35 @@
     list-style-type: none;
     position: relative;
     left: 37px;
+    top: -10px;
 }
 
 .cdiv1{
-    border: 1px solid black;
-    height: 12px;
+    border: 1px solid black;    
+    height: 10px;
     width: 35px;
     position: relative;
     right: 47px;
-    top: 19px;
+    top: 16px;
+    background-color: red;
+}
+
+.cdiv2{
+    border: 1px solid black;
+    height: 10px;
+    width: 35px;
+    position: relative;
+    right: 46px;
+    top: 16px;
+    background-color: black;
+}
+
+.cdiv3{
+    border: 1px solid black;
+    height: 10px;
+    width: 35px;
+    position: relative;
+    right: 46px;
+    top: 16px;
+    background-color: yellow;
 }
