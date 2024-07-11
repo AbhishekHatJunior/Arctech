@@ -5,9 +5,9 @@
 }
 
 
-.bdmain{
+/* .bdmain{
     background-color: rgb(235, 234, 234);
-}
+} */
 
 .cont ul li{
     position: relative;
@@ -41,7 +41,7 @@
     position: relative;
     left: 0px;
     top: -25px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .gpdiv1{
@@ -50,8 +50,8 @@
     height: 425px;
     width: 480px;
     position: relative;
-    left: 200px;
-    top: 30px;
+    left: 770px;
+    top: 17px;
 }
 
 .gpdiv1 h6{
